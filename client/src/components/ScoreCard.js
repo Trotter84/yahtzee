@@ -1,5 +1,5 @@
 import React from 'react'
-import ScoreCard from './ScoreSection'
+import ScoreSection from './ScoreSection'
 
 const ScoreCard = () => (
   <>
